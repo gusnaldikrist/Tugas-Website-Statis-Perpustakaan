@@ -1,0 +1,20 @@
+body {
+	margin: auto;
+}
+.zz {
+	position: relative;
+	min-height: 50vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: -70px;
+	padding-top: 70px;
+}
+.judullink {
+	text-decoration: none;
+	color: white;
+}
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
